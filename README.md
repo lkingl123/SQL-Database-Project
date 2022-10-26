@@ -1,4 +1,4 @@
-# Database
+CollectRewards Project
 
 Here we created a company named Collect Rewards. You can view more about the company sectioned Executive Summary.
 
